@@ -17,6 +17,11 @@ Run 'mvn -Pproduction-mode verify' to run the Vaadin TestBench tests.
 
 *Note*: You need a valid [Vaadin TestBench license](https://vaadin.com/add-ons/testbench) and [Firefox browser](https://www.mozilla.org/firefox/) installed to run the tests.
 
+Running the App with Google App Engine
+==
+
+Run 'mvn appengine:devserver'
+
 Licenses
 ==
 The source code is released under Apache 2.0.
