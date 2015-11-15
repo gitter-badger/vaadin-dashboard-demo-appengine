@@ -1,6 +1,8 @@
 Vaadin QuickTickets Dashboard Demo
 ==================================
 
+[![Join the chat at https://gitter.im/gwtdevelopers/vaadin-dashboard-demo-appengine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gwtdevelopers/vaadin-dashboard-demo-appengine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Sources for the official [Vaadin](https://vaadin.com) demo application: http://demo.vaadin.com/dashboard
 
 ![QuickTickets Dashboard](https://vaadin.com/documents/10187/2487938/Dashboard+Demo+2014/a37b2c4d-c941-48fe-97c3-ad5a60586882?t=1412769929183)
